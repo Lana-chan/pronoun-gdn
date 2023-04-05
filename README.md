@@ -1,4 +1,4 @@
-# Pronoun Garden
+# [Pronoun Garden](https://pronoun.gdn)
 
 a very shameless clone of [Pronoun Island](https://github.com/witch-house/pronoun.is) written in PHP in a few hours by maple "mavica" syrup whose pronouns are [byte or it](pronoun.gdn/byte?or=it)
 
